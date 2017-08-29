@@ -10,8 +10,9 @@ Hellow world
  
 ### Test
 ```markdown
+iChi
+```
 # 与我联系
-这是我的个人主页 在贴吧上[请用力戳我](http://tieba.baidu.com/home/main?un=MCPE_Roch&fr=index&red_tag=n1927183257)
+</del>这是我的个人主页 在贴吧上[轻戳我](http://tieba.baidu.com/home/main?un=MCPE_Roch&fr=index&red_tag=n1927183257)<del>
 # 最后
 -------**MCPE_Roch**参上2017.4.23
-```
