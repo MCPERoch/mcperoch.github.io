@@ -1,6 +1,10 @@
+<!-DOCTYPE HTML>
+<html>
 <h1>欢迎来到MCPE_Roch的小站</h1>
-test
-Hellow world
+<p>
+  <br>test</br>
+  Hellow world
+  <p>
 
 ### Test Test
 ```markdown
